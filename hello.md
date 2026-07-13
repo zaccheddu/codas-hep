@@ -5,4 +5,4 @@
   - Olá mundo
   - hallo wereld
   - हैलो वर्ल्ड
-  - Ciao a tutti!
+  - Invece nessun saluto!
